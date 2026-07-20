@@ -43,4 +43,4 @@ The EC2 instances successfully communicated over their private IP addresses thro
 
 ## Screenshots
 
-Screenshots are available in the **screenshots** folder.
+Screenshots are available in the **screenshots** .
