@@ -1,9 +1,5 @@
 # AWS VPC Peering Between Two EC2 Instances
 
-## Student Information
-
-**Name:** Anitha M  
-**Register Number:** 1U21IT010
 
 ---
 
