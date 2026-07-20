@@ -1,2 +1,50 @@
-# aws-vpc-peering-ec2-connectivity
-AWS hands-on project demonstrating VPC Peering between two Amazon VPCs with successful EC2 connectivity using Route Tables and Security Groups.
+# AWS VPC Peering Between Two EC2 Instances
+
+## Student Information
+
+**Name:** Anitha M  
+**Register Number:** 1U21IT010
+
+---
+
+## Project Overview
+
+This project demonstrates communication between two Amazon EC2 instances located in different VPCs using AWS VPC Peering.
+
+## AWS Services Used
+
+- Amazon VPC
+- Amazon EC2
+- VPC Peering
+- Route Tables
+- Security Groups
+- Internet Gateway
+
+## Steps Performed
+
+1. Created two VPCs with different CIDR blocks.
+2. Created subnets in each VPC.
+3. Launched Ubuntu EC2 instances.
+4. Created and accepted a VPC Peering Connection.
+5. Updated Route Tables.
+6. Configured Security Groups to allow ICMP.
+7. Verified connectivity using the `ping` command.
+
+## Result
+
+The EC2 instances successfully communicated over their private IP addresses through the VPC Peering Connection with 0% packet loss.
+
+## Skills Demonstrated
+
+- AWS Cloud
+- Amazon EC2
+- Amazon VPC
+- VPC Peering
+- Route Tables
+- Security Groups
+- Linux
+- Networking
+
+## Screenshots
+
+Screenshots are available in the **screenshots** folder.
